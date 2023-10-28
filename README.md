@@ -1,5 +1,5 @@
 # MegaBuilder
-MegaBuilder is a CodeIgnitor Crud Builder for CI3.x and CI4.x, it will be a open source code.
+MegaBuilder is a product to which will auto build Crud CODE for LARAVEL, CI, REACTJS, NEXTJS, ANGULAR, PYTHON, VUE based on DB with easy to use interface and some part of it will be a open source code. Free and commercial both products will be avaiable. In free version you will get the same solution with some less features.
 Its Very easy to use.
 
 The code is created in a very easy way
